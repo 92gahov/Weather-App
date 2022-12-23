@@ -1,4 +1,4 @@
-## Weather App made with React and Express.
+## Weather App made with React.
 
 <img src="img/Weather1.PNG" width="800" height="400">
 <br/>
